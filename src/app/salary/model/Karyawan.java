@@ -52,6 +52,5 @@ public class Karyawan extends Manusia {
     public void setJabatan(String jabatan) {
         this.jabatan = jabatan;
     }
-    
 
 }
